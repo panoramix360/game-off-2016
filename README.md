@@ -1,3 +1,17 @@
+# Octopout
+
+This is a simple breakout game with an augmented reality where octopuses were transformed into mechanics creatures with filthy tentacles made of steel. There are 2 levels and one final boss, try to defeat them pushing the bal..pearl into the bricks. Use your powerup to mix the ball with black oil and explode the bricks into pieces.
+
+THIS IS NOT A REALITY. Every resemblance is not a coincidence! (or it is?)
+
+Controls:
+- Keyboard (<- / ->)
+- Gamepad
+
+To play you need to open the builds folder and run the correspondent file for your OS.
+
+Enjoy! And thanks for playing!
+
 # GitHub Game Off 2016
 
 ![GitHub Game Off 2016 Theme is Hacking, Modding, or Augmenting](https://cloud.githubusercontent.com/assets/121322/19498019/d8827370-9543-11e6-82d8-6da822b6147b.png)
