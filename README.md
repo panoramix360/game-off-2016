@@ -20,8 +20,11 @@ Soundtrack:
 Team:
 
 [@panoramix360](https://twitter.com/panoramix360) - Creator of augmented realities
+
 [@guilhermekf](https://twitter.com/guilhermekf) - God of the Screenprogramming
+
 [@fpjuni](https://www.instagram.com/fpjuni/) - Dad of the Painters
+
 [@stopellileo](http://stopelliproductions.bandcamp.com/releases) - UNBELIEVABLE Musician
 
 # GitHub Game Off 2016
