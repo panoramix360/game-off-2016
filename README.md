@@ -1,5 +1,7 @@
 # Octopout
 
+![](http://i.imgur.com/b2M3fts.png)
+
 This is a simple breakout game with an augmented reality where octopuses were transformed into mechanics creatures with filthy tentacles made of steel. There are 2 levels and one final boss, try to defeat them pushing the bal..pearl into the bricks. Use your powerup to mix the ball with black oil and explode the bricks into pieces.
 
 THIS IS NOT A REALITY. Every resemblance is not a coincidence! (or it is?)
@@ -11,6 +13,16 @@ Controls:
 To play you need to open the builds folder and run the correspondent file for your OS.
 
 Enjoy! And thanks for playing!
+
+Soundtrack:
+[OCTOPOUT MASTERPIECE](https://stopelliproductions.bandcamp.com/releases)
+
+Team:
+
+[@panoramix360](https://twitter.com/panoramix360) - Creator of augmented realities
+[@guilhermekf](https://twitter.com/guilhermekf) - God of the Screenprogramming
+[@fpjuni](https://www.instagram.com/fpjuni/) - Dad of the Painters
+[@stopellileo](http://stopelliproductions.bandcamp.com/releases) - UNBELIEVABLE Musician
 
 # GitHub Game Off 2016
 
